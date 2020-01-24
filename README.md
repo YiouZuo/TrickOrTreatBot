@@ -48,7 +48,7 @@ it will trigger the servo.
 See `tot_recognize.py` for my code.
 
 On the Halloween night, after a few kids, I had to unplugged the mic because most kids, though interested in the robot, 
-are not interested enough to wait for 5 seconds or more for their candy. 
+are not interested enough to wait for a couple of seconds for their candy (so many houses to hit!). 
 Pushing a button and see the candy coming up was sufficiently intriguing.
 
 ### Auto run on RPi starts
