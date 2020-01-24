@@ -6,6 +6,7 @@ We were talking about robots and candies, and it struck me -- wouldn't it be nic
 hands you candy when you say "Trick-Or-Treat"?!
 I talked to my colleage Paul Davis who is quite crafty and googled a whole bunch.
 Long story short, we came up with this Pumpkin Robot. 
+![robot](https://github.com/YiouZuo/TrickOrTreatBot/blob/master/TOT_robot.jpg)
 
 ## Hardware
 Since I wanted speech recognition, I chose RaspberryPi, and an external microphone. 
@@ -17,6 +18,8 @@ The candy dispenser mechanism is inspired by the [Jelly Bean BeanBoozled Mystery
 We used a cut-off juice box as a bowl to hold candies, a PVC pipe to push up the candy, and a servo to pull the PVC pipe. 
 When the bowl is full of candies, the servo doesn't have enough torqque, 
 so we added a short piece of rubber band just to help it out.
+
+![inside pic](https://github.com/YiouZuo/TrickOrTreatBot/blob/master/TOT_robot_inside.jpg)
 
 ## Software
 You'll need the `GPIO` package, and the `pinout` command will show you the GPIO numbers on your RPi.
