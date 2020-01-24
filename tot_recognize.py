@@ -81,7 +81,8 @@ if __name__ == "__main__":
 
         # give candy, aka turn servo when heard "trick or treat"
         tot = recognize_speech_from_mic(recognizer, microphone)
-        if tot["transcription"].lower() == 'trick or treat':
+        # if tot["transcription"].lower() == 'trick or treat': # for strict matching, you can also pass a list of possible matchings
+        if tot["transcription"]:
             turn_servo()
 
         # in reality, not always successfully recognized, hence set to turn servo no matter what
