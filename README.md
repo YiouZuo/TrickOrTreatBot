@@ -6,7 +6,7 @@ We were talking about robots and candies, and it struck me -- wouldn't it be nic
 hands you candy when you say "Trick-Or-Treat"?!
 I talked to my colleage Paul Davis who is quite crafty and googled a whole bunch.
 Long story short, we came up with this Pumpkin Robot. 
-Checkout `TOT_video.mp4` to see it in action.
+Check out `TOT_video.mp4` to see it in action.
 ![robot](https://github.com/YiouZuo/TrickOrTreatBot/blob/master/TOT_robot.jpg)
 
 ## Hardware
